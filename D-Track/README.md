@@ -4,6 +4,7 @@ System requirements and dependencies
 * Operating system: Linux distribution. Ubuntu 12.0 o higher recommended 
 * RAM: 900 MB
 * Processor: 1.73 Ghz
+* ffmpeg libraries
 
 /****  EXECUTION ****/
 		
