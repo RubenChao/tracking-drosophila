@@ -16,3 +16,4 @@ In order to launch the program, please write the following via console:
 	[file_name.csv] is the name of the file where the results will be stored.
 	In the file_name is not provided, the program will ask for it. If no answer is given, the program will use
 	[Data_n] as default name (n within 1 to 29). 
+ config.cfg file must be edited in order to change system parameters. This file contains important advices and information
