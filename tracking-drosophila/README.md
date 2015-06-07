@@ -1,4 +1,4 @@
-In order to compile the software you the next softwate and libraries must be installed.
+In order to compile the next softwate and libraries must be installed.
 
 * ( IDE Eclipse Recommended )
 * OpenCV 2.1.0 or higher (and all dependecies like ffmpeg libraries )
@@ -7,6 +7,6 @@ In order to compile the software you the next softwate and libraries must be ins
 * cvblobslib_OpenCV_v83
 
 The proyect can be imported from GitHub. All libraries must be added to the proyect. ( See Eclipse main help )
-In libraries section a help in order to install this libraries is provided. See README.md file.
+In libraries section installation instructions are provided. See README.md file.
 
 Enjoy
