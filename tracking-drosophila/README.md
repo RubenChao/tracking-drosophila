@@ -1,4 +1,4 @@
-In order to compile the next softwate and libraries must be installed.
+Next packages and libraries must be installed in order to compile
 
 * ( IDE Eclipse Recommended )
 * OpenCV 2.1.0 or higher (and all dependecies like ffmpeg libraries )
