@@ -6,7 +6,7 @@ In order to compile the next softwate and libraries must be installed.
 * libconfig-1.4.8 or higher
 * cvblobslib_OpenCV_v83
 
-The proyect can be imported from GitHub. All libraries must be added to the proyect. ( See Eclipse main help )
+The proyect can be imported from GitHub. All libraries must be added to the project. ( See Eclipse main help )
 In libraries section installation instructions are provided. See README.md file.
 
 Enjoy
